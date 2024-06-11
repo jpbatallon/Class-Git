@@ -161,6 +161,52 @@ public class HolaMundo {
         fraseChar = entrada.nextLine().charAt(0);
         System.out.println("fraseChar = " + fraseChar);
 */
+/*
+        int num1 = 7, num2 = 8;
+        var respuesta = num1 + num2;
+        System.out.println("La respuesta de la suma es: " + respuesta);
+
+        respuesta = num1 - num2;
+        System.out.println("La respuesta de la resta es: " + respuesta);
+
+        respuesta = num1 * num2;
+        System.out.println("La respuesta de la multiplicación es: " + respuesta);
+
+        respuesta = num1 / num2;
+        System.out.println("La respuesta de la división es: " + respuesta);
+
+        var respuesta2 = 3.90 / num2;
+        System.out.println("La respuesta2 de la división es: " + respuesta2);
+
+        respuesta = num1 % num2;
+        System.out.println("El residuo de la división es: " + respuesta);
+
+        if (num1 % 2 == 0)
+             System.out.println("El número ingresado es par.");
+        else
+             System.out.println("El número ingresado es impar.");
+*/
+/*
+        int varNum1 = 1, varNum2 = 4;
+        var varNum3 = varNum1 + 6 - varNum2;
+        System.out.println("varNum3 = " + varNum3);
+
+        varNum1 += 1;
+        System.out.println("varNum1 = " + varNum1);
+
+        varNum2 -= 2;
+        System.out.println("varNum2 = " + varNum2);
+
+        varNum2 /= 2;
+        System.out.println("varNum2 = " + varNum2);
+
+        varNum3 *= 3;
+        System.out.println("varNum3 = " + varNum3);
+
+        varNum1 %= 6;
+        System.out.println("varNum1 = " + varNum1);
+*/
+
         
     }
 }
