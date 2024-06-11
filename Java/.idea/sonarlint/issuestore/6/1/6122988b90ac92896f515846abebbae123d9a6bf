@@ -1,0 +1,11 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßÑşûÿÿÿÿ8Ÿ²ıûı1J$05bebc67-7353-4505-8cec-1a0d14a822b5
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¬ñ8 ²ıûı1J$e64772ae-f7c2-4425-b065-5f6e2ea64e54
+r	java:S106"+Replace this use of System.out by a logger.(çÛØİøÿÿÿÿ8¨²ıûı1J$6ca8cab3-fe72-405b-8dc0-e4b0a3bf3a7e
+m	java:S106
+"+Replace this use of System.out by a logger.(œ¦üã8©²ıûı1J$24556722-2e16-4006-8c1a-c8dbcb763bb0
+m	java:S106"+Replace this use of System.out by a logger.(õÚØ8ª²ıûı1J$d26d5e41-355a-4432-be3d-5488549dd1c1
+r	java:S106"+Replace this use of System.out by a logger.(•Åçşÿÿÿÿ8«²ıûı1J$734acf4b-a827-4c8d-8e9c-fe7fcfcf2b51
+r	java:S106"+Replace this use of System.out by a logger.(‘ÿÜ¦ùÿÿÿÿ8¬²ıûı1J$42e4d42d-7e94-4198-bee1-1dd56e460617
+m	java:S106"+Replace this use of System.out by a logger.(’Öóæ8¬²ıûı1J$301e1924-5683-4cea-8515-cc4d5cbbd21e
+r	java:S106"+Replace this use of System.out by a logger.(ÄÁ¿§üÿÿÿÿ8Ÿ÷ÿûı1J$5d1913bc-cc92-4b5c-af5b-33cbb4edf6d9
