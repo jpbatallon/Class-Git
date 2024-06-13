@@ -187,7 +187,6 @@ public class HolaMundo {
              System.out.println("El número ingresado es impar.");
 */
 /*
-      // -=     +=      /=      %=      *=
         int varNum1 = 1, varNum2 = 4;
         var varNum3 = varNum1 + 6 - varNum2;
         System.out.println("varNum3 = " + varNum3);
@@ -207,120 +206,7 @@ public class HolaMundo {
         varNum1 %= 6;
         System.out.println("varNum1 = " + varNum1);
 */
-/*
-        //Operadores unarios: Cambio de signo
-        var varA = 10;
-        var varB = -varA;
-        System.out.println("varA = " + varA);
-        System.out.println("varB = " + varB);  //El resultado será un número negativo.
 
-        //Operador de negación
-        var varC = true;
-        var varD = !varC;   //Acá invierte el valor.
-        System.out.println("varC = " + varC);
-        System.out.println("varD = " + varD);
-
-        //Operador unarios de incremento: Preincremento
-        var varE = 9;   //Se va a cambiar el valor.
-        var varF = ++varE;   //Símbolo antes de la variable.
-                             //Primero se incrementa la variable y luego se usa su valor.
-        System.out.println("varE = " + varE);
-        System.out.println("varF = " + varF);
-
-        //Postincremento (El símbolo va después de la variable)
-        var varG = 15;
-        var varH = varG++;
-        System.out.println("varG = " + varG);
-        System.out.println("varH = " + varH);
-
-        //Operadores unarios de decremento: Predecremento
-        var varI = 5;
-        var varJ = --varI;
-        System.out.println("varI = " + varI);
-        System.out.println("varJ = " + varJ);
-
-        //Postdecremento
-        var varK = 7;
-        var varL = varK--;
-        System.out.println("varK = " + varK);
-        System.out.println("varL = " + varL);
-*/
-/*
-        //Operadores de Igualdad y Relacionales
-        var aNum = 5;
-        var bNum = 7;
-        var cNum = aNum == bNum;
-        System.out.println("cNum = " + cNum);
-
-        var dNum = aNum != bNum;
-        System.out.println("dNum = " + dNum);
-
-        var cadenaA = "Hello";
-        var cadenaB = "World";
-        var cVar = cadenaA == cadenaB;
-        System.out.println("cVar = " + cVar);
-
-        var fVar = cadenaA.equals(cadenaB);
-        System.out.println("fVar = " + fVar);
-
-        var gVar = aNum >= bNum; //>, >=, <, <=, !=, ==
-        System.out.println("gVar = " + gVar);
-
-        if (aNum % 2 == 0){
-            System.out.println("El número es par.");
-        } else{
-            System.out.println("El número es impar.");
-        }
-
-        var edad = 40;
-        var adulto = 18;
-        if (edad >= adulto){
-            System.out.println("Es mayor de edad.");
-        } else{
-            System.out.println("No es mayor de edad.");
-        }
-*/
-/*
-        //Operadores condicionales (and (&&) y or (||))
-        var valorA = 8;
-        var valorMinimo = 0;
-        var valorMaximo = 10;
-        var respuesta = valorA >= 0 && valorA <= 10;
-
-        if(respuesta)
-            System.out.println("Está dentro del rango establecido");
-        else
-            System.out.println("Está fuera del rango establecido.");
-
-        var vacaciones = false;
-        var diaLibre = false;
-        if (vacaciones || diaLibre)
-            System.out.println("Papá puede asistir al juego de su hijo.");
-        else
-            System.out.println("El papá no puede asistir al juego de su hijo.");
-*/
-/*
-        //Operador ternario
-        var resultadoT = (4 > 9) ? "Verdadero" : "Falso";
-        System.out.println("resultadoT = " + resultadoT);
-
-        var numeroT = 6;
-        resultadoT = (numeroT % 2 == 0) ? "Es par." : "Es impar.";
-        System.out.println("resultadoT = " + resultadoT);
-*/
-/*
-        var x = 7;
-        var y = 9;
-        var z = ++x + y--;
-        System.out.println("x = " + x);  //8
-        System.out.println("y = " + y);  //8
-        System.out.println("z = " + z);  //17
-
-        var solucionAritmetica = 7 + 10 * 3 / 5;   // 7 + ((10 * 3) / 5) = 30 / 5 = 6 + 7 = 13
-        System.out.println("solucionAritmetica = " + solucionAritmetica);
-
-        solucionAritmetica = (7+8) * 3 / 5;   // 7 + 8 = 15 * 3 = 45 / 5 = 9
-        System.out.println("solucionAritmetica = " + solucionAritmetica);
-*/
+        
     }
 }

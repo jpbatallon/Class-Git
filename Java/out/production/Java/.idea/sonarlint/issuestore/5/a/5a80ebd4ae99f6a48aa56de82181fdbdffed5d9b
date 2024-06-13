@@ -1,19 +1,15 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àäµÿÿÿÿÿ8‡‡Áæ€2J$edcf03c5-bfbd-49fe-b992-dd81a7fe98a7
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(²èİòûÿÿÿÿ8åÜÂæ€2J$63229794-a1b3-41aa-999e-a1e22c43a8f3
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç‚º¶øÿÿÿÿ8‡Áæ€2J$6fb5fb26-a98c-437f-9947-a0cd6399d49f
-~	java:S125#"<This block of commented-out lines of code should be removed.(¬€Ñ–8‡Áæ€2J$887f2e7c-4982-430c-9ad0-844368db4137
-ƒ	java:S125,"<This block of commented-out lines of code should be removed.(¥µÙ“şÿÿÿÿ8‡Áæ€2J$d68c109a-3c29-4a39-b32d-373f58de2fef
-ƒ	java:S125;"<This block of commented-out lines of code should be removed.(¬Éâˆüÿÿÿÿ8‡Áæ€2J$762daac2-a677-4d5b-ac25-d927fc8ab572
-ƒ	java:S125P"<This block of commented-out lines of code should be removed.(úœóãøÿÿÿÿ8‡Áæ€2J$81c9eaca-cddb-41d3-bda4-41acf8e0b7b1
-ƒ	java:S125["<This block of commented-out lines of code should be removed.(©°Ë²ûÿÿÿÿ8‡Áæ€2J$ccf5f649-bcf0-4b43-9701-57b41a59b967
-ƒ	java:S125d"<This block of commented-out lines of code should be removed.(Ğı çûÿÿÿÿ8‡Áæ€2J$417c508f-b059-44df-b861-e3a49b8738c6
-ƒ	java:S125{"<This block of commented-out lines of code should be removed.(µ‚Àåúÿÿÿÿ8‡Áæ€2J$1615ab33-98b1-4187-bee1-690f32465493
-„	java:S125"<This block of commented-out lines of code should be removed.(›Í†»øÿÿÿÿ8‡Áæ€2J$01e4d921-3a75-4c78-a5a4-e4accec28738
-	java:S125™"<This block of commented-out lines of code should be removed.(ºÙ¨…8‡Áæ€2J$e3928e80-4f68-4df9-8956-10a713d68535
-	java:S125¥"<This block of commented-out lines of code should be removed.(öÌ¨Ü8‡Áæ€2J$386d8a27-5bce-40ff-9ddd-3d8c2913b46c
-	java:S125¿"<This block of commented-out lines of code should be removed.(Æ½Ôş8‘‡Áæ€2J$e708a82a-8c42-4ad9-9e67-dda9e64437de
-n	java:S106Ö"+Replace this use of System.out by a logger.(€Í‹‚8şÅÁæ€2J$235c3e46-ce9c-4395-8330-5131e3b891d5
-n	java:S106×"+Replace this use of System.out by a logger.(¹Â•œ8§„Ãæ€2J$3c4279a1-3da1-481e-a005-dcb525e556fe
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àäµÿÿÿÿÿ8ÑÑ«ûı1J$b9c12a64-6378-4566-a220-0a17b2af499d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(²èİòûÿÿÿÿ8ÔÑ«ûı1J$39d077ec-875e-4f63-90e4-8fc71abe12d1
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç‚º¶øÿÿÿÿ8ÔÑ«ûı1J$ce7e92d2-6ac6-4eea-9260-85499697795a
+~	java:S125#"<This block of commented-out lines of code should be removed.(¬€Ñ–8ÔÑ«ûı1J$1cdbdd82-eacb-4e10-af36-b7cfa282693b
+ƒ	java:S125,"<This block of commented-out lines of code should be removed.(¥µÙ“şÿÿÿÿ8ÔÑ«ûı1J$dff3c627-b6e8-4c69-9af4-c20713d86ba6
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(¬Éâˆüÿÿÿÿ8ÕÑ«ûı1J$4386d32a-dcab-4d6f-8b79-ec83382ac7ac
+ƒ	java:S125P"<This block of commented-out lines of code should be removed.(úœóãøÿÿÿÿ8ÕÑ«ûı1J$21fc93b6-ebc9-48b9-9971-cc9002a7f0a9
+ƒ	java:S125["<This block of commented-out lines of code should be removed.(©°Ë²ûÿÿÿÿ8ÕÑ«ûı1J$0b9ebd95-2a6d-4b3e-bd2b-08e68d9f863f
+ƒ	java:S125d"<This block of commented-out lines of code should be removed.(Ğı çûÿÿÿÿ8ÕÑ«ûı1J$b0368822-a591-4a89-9748-d31c54ea4d8e
+ƒ	java:S125{"<This block of commented-out lines of code should be removed.(µ‚Àåúÿÿÿÿ8ÕÑ«ûı1J$a169ab6b-96dc-4aae-b51b-0d54350f98c0
+„	java:S125"<This block of commented-out lines of code should be removed.(›Í†»øÿÿÿÿ8ÕÑ«ûı1J$ac572005-2d18-45db-ac33-b23df4e653f7
+	java:S125™"<This block of commented-out lines of code should be removed.(ºÙ¨…8ÖÑ«ûı1J$4ab34013-41e0-4174-8e8c-2e32ef6806b7
 v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8‘‡Áæ€2J$763c00b4-b28e-46a1-8035-a20c29bb1da3
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÖÑ«ûı1J$fa1ffced-069e-421f-b1a9-abd1f163d7f3
