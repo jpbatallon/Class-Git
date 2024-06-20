@@ -1,0 +1,11 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û∫¨Ò8¿°…µÉ2J$88f9a0cd-7670-4201-87a5-42651dc6b89e
+ï
+java:S11926"RDefine a constant instead of duplicating this literal "El resultado es: " 3 times.(›Óè∫8Ä¢…µÉ2J$77465d03-fc12-424d-a441-78d0d63084be
+m	java:S106/"+Replace this use of System.out by a logger.(ÑÍΩ€8ê¢…µÉ2J$038d36a9-87fa-4922-8395-07aeed2bf88a
+É	java:S125"<This block of commented-out lines of code should be removed.(õãôì˘ˇˇˇˇ8ê¢…µÉ2J$39219d04-caf3-4824-90b3-a00e0c8abd14
+~	java:S125"<This block of commented-out lines of code should be removed.(”•≤∏8ê¢…µÉ2J$25849c87-b701-4e5e-90c8-5e89ddcd0bac
+r	java:S1061"+Replace this use of System.out by a logger.(¶≥ﬁÕ˛ˇˇˇˇ8ê¢…µÉ2J$dd57b48d-1559-4b5a-b197-1b8b0fdbb084
+m	java:S1066"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$146dd8c7-7a13-4899-909b-9ecc14573974
+m	java:S1069"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$8fff55fd-348c-4f02-b728-148baf3b006e
+m	java:S106<"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$3d89cf90-bf02-41ec-9427-bc94191dafab

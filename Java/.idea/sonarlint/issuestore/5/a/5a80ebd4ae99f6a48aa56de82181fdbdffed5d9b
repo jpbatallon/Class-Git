@@ -1,22 +1,22 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àäµÿÿÿÿÿ8Ã—ºè€2
-]	java:S125"<This block of commented-out lines of code should be removed.(²èİòûÿÿÿÿ8Ñ—ºè€2
-]	java:S125"<This block of commented-out lines of code should be removed.(Ç‚º¶øÿÿÿÿ8Ñ—ºè€2
-X	java:S125#"<This block of commented-out lines of code should be removed.(¬€Ñ–8Ñ—ºè€2
-]	java:S125,"<This block of commented-out lines of code should be removed.(¥µÙ“şÿÿÿÿ8Ñ—ºè€2
-]	java:S125;"<This block of commented-out lines of code should be removed.(¬Éâˆüÿÿÿÿ8Ò—ºè€2
-]	java:S125P"<This block of commented-out lines of code should be removed.(úœóãøÿÿÿÿ8Ò—ºè€2
-]	java:S125["<This block of commented-out lines of code should be removed.(©°Ë²ûÿÿÿÿ8Ò—ºè€2
-]	java:S125d"<This block of commented-out lines of code should be removed.(Ğı çûÿÿÿÿ8Ò—ºè€2
-]	java:S125{"<This block of commented-out lines of code should be removed.(µ‚Àåúÿÿÿÿ8Ò—ºè€2
-^	java:S125"<This block of commented-out lines of code should be removed.(›Í†»øÿÿÿÿ8Ò—ºè€2
-Y	java:S125™"<This block of commented-out lines of code should be removed.(ºÙ¨…8Ò—ºè€2
-Y	java:S125¥"<This block of commented-out lines of code should be removed.(öÌ¨Ü8Ò—ºè€2
-Y	java:S125¿"<This block of commented-out lines of code should be removed.(Æ½Ôş8Ò—ºè€2
-Y	java:S125Ô"<This block of commented-out lines of code should be removed.(¹‡ãÈ8Ó—ºè€2
-Y	java:S125ú"<This block of commented-out lines of code should be removed.(êã¸˜8Ó—ºè€2
-^	java:S125œ"<This block of commented-out lines of code should be removed.(ºóóşÿÿÿÿ8Ó—ºè€2
-^	java:S125°"<This block of commented-out lines of code should be removed.( ´áúÿÿÿÿ8Ó—ºè€2
-Y	java:S125¸"<This block of commented-out lines of code should be removed.(“Ÿü8Ó—ºè€2
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ó—ºè€2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àäµÿÿÿÿÿ8Ã—ºè€2J$d40fe546-1319-49b7-a1a4-579012c88deb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(²èİòûÿÿÿÿ8Ñ—ºè€2J$9deb956c-63fc-4497-8fd5-de3e74c9b8e0
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç‚º¶øÿÿÿÿ8Ñ—ºè€2J$d26a75e0-8a98-4b86-ab7e-6b6d5547ba6a
+~	java:S125#"<This block of commented-out lines of code should be removed.(¬€Ñ–8Ñ—ºè€2J$e93aac66-8ad0-49bc-8520-972e2d3a15ab
+ƒ	java:S125,"<This block of commented-out lines of code should be removed.(¥µÙ“şÿÿÿÿ8Ñ—ºè€2J$65cca0df-a24c-4dff-84d0-97e007ce25fa
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(¬Éâˆüÿÿÿÿ8Ò—ºè€2J$de746be8-ec2f-486b-9c14-6487bad1897c
+ƒ	java:S125P"<This block of commented-out lines of code should be removed.(úœóãøÿÿÿÿ8Ò—ºè€2J$32df0e6f-2853-416c-a38b-d49f55f23b49
+ƒ	java:S125["<This block of commented-out lines of code should be removed.(©°Ë²ûÿÿÿÿ8Ò—ºè€2J$f5528ec6-29c6-4fd7-b1bd-7cae72de984c
+ƒ	java:S125d"<This block of commented-out lines of code should be removed.(Ğı çûÿÿÿÿ8Ò—ºè€2J$fe503719-3645-4143-9f83-9a613e69a910
+ƒ	java:S125{"<This block of commented-out lines of code should be removed.(µ‚Àåúÿÿÿÿ8Ò—ºè€2J$61c8260a-255b-4681-9213-3845a0107f4d
+„	java:S125"<This block of commented-out lines of code should be removed.(›Í†»øÿÿÿÿ8Ò—ºè€2J$4afa7e83-b89f-4301-90eb-32318393dece
+	java:S125™"<This block of commented-out lines of code should be removed.(ºÙ¨…8Ò—ºè€2J$640ea3d8-0c6f-42ba-bd1b-c16e01f80986
+	java:S125¥"<This block of commented-out lines of code should be removed.(öÌ¨Ü8Ò—ºè€2J$c432de9a-c771-411a-b167-b5321306f9b9
+	java:S125¿"<This block of commented-out lines of code should be removed.(Æ½Ôş8Ò—ºè€2J$47e55f6a-848c-4435-97ac-f8ecc6c10fe7
+	java:S125Ô"<This block of commented-out lines of code should be removed.(¹‡ãÈ8Ó—ºè€2J$5664b6db-59b8-4469-affb-ea97372373b7
+	java:S125ú"<This block of commented-out lines of code should be removed.(êã¸˜8Ó—ºè€2J$35e3ccc1-12e5-4be1-bb27-3a273b3ff0f5
+„	java:S125œ"<This block of commented-out lines of code should be removed.(ºóóşÿÿÿÿ8Ó—ºè€2J$2d2d0511-61b6-4e87-9df9-2dfb1ddc963d
+„	java:S125°"<This block of commented-out lines of code should be removed.( ´áúÿÿÿÿ8Ó—ºè€2J$dbaaacfe-50d3-452a-8199-34dc3936b4e4
+	java:S125¸"<This block of commented-out lines of code should be removed.(“Ÿü8Ó—ºè€2J$129a9aed-e8ab-4ea1-9b57-492c8024ccd0
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ó—ºè€2J$f10933cd-366c-445d-b180-3f3aa8b47335
