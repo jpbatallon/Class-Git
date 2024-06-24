@@ -121,9 +121,9 @@ git clean -f
 # Este comando eliminará los directorios y archivos no rastreados
 # que están pendientes de commit
 git clean -fd
-<br>
+<br/>
 ---
-<br>
+<br/>
 **¿Qué es el pip y porque lo actualizamos?**
 
 Pip (Python Package Installer) es una herramienta de gestión de paquetes utilizada para instalar y gestionar bibliotecas y dependencias en proyectos de Python. Es el sistema de gestión de paquetes estándar y más utilizado en el ecosistema de Python.
