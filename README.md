@@ -117,9 +117,11 @@ git clean -fd
 
 
 
-¿Qué es el pip y porque lo actualizamos?
+**¿Qué es el pip y porque lo actualizamos?**
 
 Pip (Python Package Installer) es una herramienta de gestión de paquetes utilizada para instalar y gestionar bibliotecas y dependencias en proyectos de Python. Es el sistema de gestión de paquetes estándar y más utilizado en el ecosistema de Python.
+
+
 
 **¿Por qué se usa pip?**
 
@@ -130,6 +132,7 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 **· Actualización y eliminación de paquetes:** Permite actualizar los paquetes instalados a sus versiones más recientes y también eliminarlos cuando ya no son necesarios.
 
 **· Facilidad de uso:** Proporciona una interfaz de línea de comandos simple y directa para realizar todas estas tareas.
+
 
 
 **¿Por qué actualizamos pip?**
@@ -146,9 +149,11 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 
 
 
+
 **¿Cómo actualizar pip?**
 
 Actualizar pip es un proceso sencillo que se puede realizar con el siguiente comando:
+
 
 
 
@@ -159,6 +164,7 @@ Colocar en la consola:
 pip install --upgrade pip
 
 Este comando descarga e instala la versión más reciente de pip disponible en PyPI.
+
 
 
 En resumen, pip es una herramienta esencial para cualquier desarrollador de Python, facilitando enormemente la gestión de paquetes y dependencias. Mantener pip actualizado garantiza que dispongas de las últimas mejoras y correcciones, mejorando así tu entorno de desarrollo.
