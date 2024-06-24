@@ -19,8 +19,9 @@ git add .
 git commit -m "Mensaje del commit"
 ```
 ### Ver el estado de los archivos en el repositorio
+```bash
 git status
-
+```
 ### Ver el historial de commits
 ```bash
 git log
@@ -121,13 +122,13 @@ git clean -f
 # que están pendientes de commit
 git clean -fd
 
-
+---
 
 **¿Qué es el pip y porque lo actualizamos?**
 
 Pip (Python Package Installer) es una herramienta de gestión de paquetes utilizada para instalar y gestionar bibliotecas y dependencias en proyectos de Python. Es el sistema de gestión de paquetes estándar y más utilizado en el ecosistema de Python.
 
-
+#
 
 **¿Por qué se usa pip?**
 
@@ -139,7 +140,7 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 
 **· Facilidad de uso:** Proporciona una interfaz de línea de comandos simple y directa para realizar todas estas tareas.
 
-
+#
 
 **¿Por qué actualizamos pip?**
 
@@ -153,7 +154,7 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 
 **· Seguridad:** Las actualizaciones pueden incluir parches de seguridad que protegen contra vulnerabilidades que podrían ser explotadas.
 
-
+#
 
 
 **¿Cómo actualizar pip?**
@@ -161,7 +162,7 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 Actualizar pip es un proceso sencillo que se puede realizar con el siguiente comando:
 
 
-
+#
 
 **En Git Bash**
 
@@ -174,3 +175,7 @@ Este comando descarga e instala la versión más reciente de pip disponible en P
 
 
 En resumen, pip es una herramienta esencial para cualquier desarrollador de Python, facilitando enormemente la gestión de paquetes y dependencias. Mantener pip actualizado garantiza que dispongas de las últimas mejoras y correcciones, mejorando así tu entorno de desarrollo.
+
+#
+
+<div align="center">Juan Pablo Batallón Costa • 2024</div>
