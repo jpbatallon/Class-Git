@@ -90,7 +90,7 @@ git log --stat
 ```bash
 git diff <branch_name1>..<branch_name2>
 ```
-# Eliminar una rama en git
+### Eliminar una rama en git
 ```bash
 git branch -d <nombre_de_la_rama>
 ```
@@ -156,13 +156,13 @@ git clean -fd
 ---
 
 
-**¿Qué es el pip y porque lo actualizamos?**
+###**¿Qué es el pip y porque lo actualizamos?**
 
 Pip (Python Package Installer) es una herramienta de gestión de paquetes utilizada para instalar y gestionar bibliotecas y dependencias en proyectos de Python. Es el sistema de gestión de paquetes estándar y más utilizado en el ecosistema de Python.
 
 #
 
-**¿Por qué se usa pip?**
+###**¿Por qué se usa pip?**
 
 **· Instalación de paquetes:** Permite instalar fácilmente paquetes desde el Python Package Index (PyPI) y otras fuentes.
 
@@ -174,7 +174,7 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 
 #
 
-**¿Por qué actualizamos pip?**
+###**¿Por qué actualizamos pip?**
 
 **· Nuevas funcionalidades:** Las nuevas versiones de pip pueden incluir nuevas características y mejoras que facilitan su uso y lo hacen más eficiente.
 
@@ -189,14 +189,14 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 #
 
 
-**¿Cómo actualizar pip?**
+###**¿Cómo actualizar pip?**
 
 Actualizar pip es un proceso sencillo que se puede realizar con el siguiente comando:
 
 
 #
 
-**En Git Bash**
+###**En Git Bash**
 
 Colocar en la consola:
 
