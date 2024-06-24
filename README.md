@@ -1,24 +1,30 @@
-# Clonar un repositorio remoto en tu máquina local
+### Clonar un repositorio remoto en tu máquina local
+```bash
 git clone <url_del_repositorio>
-
-# Iniciar un nuevo repositorio en un directorio local
+```
+### Iniciar un nuevo repositorio en un directorio local
+```bash
 git init
-
-# Agregar archivos al área de preparación (staging area) para el próximo commit
+```
+### Agregar archivos al área de preparación (staging area) para el próximo commit
+```bash
 git add <nombre_del_archivo>
-
-# Agregar todos los archivos modificados y eliminados al área de preparación
+```
+### Agregar todos los archivos modificados y eliminados al área de preparación
+```bash
 git add .
-
-# Confirmar los cambios con un mensaje descriptivo
+```
+### Confirmar los cambios con un mensaje descriptivo
+```bash
 git commit -m "Mensaje del commit"
-
-# Ver el estado de los archivos en el repositorio
+```
+### Ver el estado de los archivos en el repositorio
 git status
 
-# Ver el historial de commits
+### Ver el historial de commits
+```bash
 git log
-
+```
 # Crear una nueva rama
 git branch <nombre_de_la_rama>
 
