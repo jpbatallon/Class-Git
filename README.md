@@ -162,41 +162,41 @@ Pip (Python Package Installer) es una herramienta de gestión de paquetes utiliz
 
 #
 
-###**¿Por qué se usa pip?**
+##**¿Por qué se usa pip?**
 
-**· Instalación de paquetes:** Permite instalar fácilmente paquetes desde el Python Package Index (PyPI) y otras fuentes.
+**• Instalación de paquetes:** Permite instalar fácilmente paquetes desde el Python Package Index (PyPI) y otras fuentes.
 
-**· Gestión de dependencias:** Maneja automáticamente las dependencias de los paquetes, es decir, los paquetes que son necesarios para que funcione el paquete que deseas instalar.
+**• Gestión de dependencias:** Maneja automáticamente las dependencias de los paquetes, es decir, los paquetes que son necesarios para que funcione el paquete que deseas instalar.
 
-**· Actualización y eliminación de paquetes:** Permite actualizar los paquetes instalados a sus versiones más recientes y también eliminarlos cuando ya no son necesarios.
+**• Actualización y eliminación de paquetes:** Permite actualizar los paquetes instalados a sus versiones más recientes y también eliminarlos cuando ya no son necesarios.
 
-**· Facilidad de uso:** Proporciona una interfaz de línea de comandos simple y directa para realizar todas estas tareas.
-
-#
-
-###**¿Por qué actualizamos pip?**
-
-**· Nuevas funcionalidades:** Las nuevas versiones de pip pueden incluir nuevas características y mejoras que facilitan su uso y lo hacen más eficiente.
-
-**· Mejoras de rendimiento:** Las actualizaciones a menudo optimizan el rendimiento de pip, haciendo que la instalación y gestión de paquetes sea más rápida y eficiente.
-
-**· Compatibilidad:** Con el tiempo, la infraestructura subyacente y los paquetes de Python evolucionan. Las actualizaciones de pip aseguran que se mantenga compatible con las versiones más recientes de Python y otros paquetes.
-
-**· Corrección de errores:** Las nuevas versiones solucionan errores y problemas conocidos en versiones anteriores, mejorando la estabilidad y confiabilidad de pip.
-
-**· Seguridad:** Las actualizaciones pueden incluir parches de seguridad que protegen contra vulnerabilidades que podrían ser explotadas.
+**• Facilidad de uso:** Proporciona una interfaz de línea de comandos simple y directa para realizar todas estas tareas.
 
 #
 
+##**¿Por qué actualizamos pip?**
 
-###**¿Cómo actualizar pip?**
+**• Nuevas funcionalidades:** Las nuevas versiones de pip pueden incluir nuevas características y mejoras que facilitan su uso y lo hacen más eficiente.
+
+**• Mejoras de rendimiento:** Las actualizaciones a menudo optimizan el rendimiento de pip, haciendo que la instalación y gestión de paquetes sea más rápida y eficiente.
+
+**• Compatibilidad:** Con el tiempo, la infraestructura subyacente y los paquetes de Python evolucionan. Las actualizaciones de pip aseguran que se mantenga compatible con las versiones más recientes de Python y otros paquetes.
+
+**• Corrección de errores:** Las nuevas versiones solucionan errores y problemas conocidos en versiones anteriores, mejorando la estabilidad y confiabilidad de pip.
+
+**• Seguridad:** Las actualizaciones pueden incluir parches de seguridad que protegen contra vulnerabilidades que podrían ser explotadas.
+
+#
+
+
+##**¿Cómo actualizar pip?**
 
 Actualizar pip es un proceso sencillo que se puede realizar con el siguiente comando:
 
 
 #
 
-###**En Git Bash**
+##**En Git Bash**
 
 Colocar en la consola:
 
