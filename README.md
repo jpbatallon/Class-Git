@@ -26,102 +26,132 @@ git status
 ```bash
 git log
 ```
-# Crear una nueva rama
+### Crear una nueva rama
+```bash
 git branch <nombre_de_la_rama>
-
-# Cambiar a una rama específica
+```
+### Cambiar a una rama específica
+```bash
 git checkout <nombre_de_la_rama>
-
-# Crear una nueva rama y cambiar a ella en un solo comando
+```
+### Crear una nueva rama y cambiar a ella en un solo comando
+```bash
 git checkout -b <nombre_de_la_rama>
-
-# Fusionar una rama específica en la rama actual
+```
+### Fusionar una rama específica en la rama actual
+```bash
 git merge <nombre_de_la_rama>
-
-# Descargar los cambios del repositorio remoto al repositorio local
+```
+### Descargar los cambios del repositorio remoto al repositorio local
+```bash
 git pull
-
-# Subir cambios locales al repositorio remoto
+```
+### Subir cambios locales al repositorio remoto
+```bash
 git push
-
-# Ver la diferencia entre el archivo local y el estado en el repositorio
+```
+### Ver la diferencia entre el archivo local y el estado en el repositorio
+```bash
 git diff <nombre_del_archivo>
-
-# Deshacer los cambios en un archivo y restaurarlo al último commit
+```
+### Deshacer los cambios en un archivo y restaurarlo al último commit
+```bash
 git checkout -- <nombre_del_archivo>
-
-# Ver la diferencia entre el archivo local y el estado en el repositorio
+```
+### Ver la diferencia entre el archivo local y el estado en el repositorio
+```bash
 git diff <file_name>
-
-# Eliminar un archivo del directorio de trabajo y del índice de git
+```
+### Eliminar un archivo del directorio de trabajo y del índice de git
+```bash
 git rm <file_name>
-
-# Restablecer el estado del índice a la última confirmación
+```
+### Restablecer el estado del índice a la última confirmación
+```bash
 git reset HEAD <file_name>
-
-# Deshacer los cambios en el directorio de trabajo
+```
+### Deshacer los cambios en el directorio de trabajo
+```bash
 git checkout -- <file_name>
-
-# Ver una lista detallada de los cambios realizados en un archivo
+```
+### Ver una lista detallada de los cambios realizados en un archivo
+```bash
 git log -p <file_name>
-
-# Cambiar de rama conservando los cambios sin confirmar en el directorio de trabajo
+```
+### Cambiar de rama conservando los cambios sin confirmar en el directorio de trabajo
+```bash
 git checkout -m <branch_name>
-
-# Mostrar estadísticas sobre los archivos modificados y confirmaciones en el repositorio
+```
+### Mostrar estadísticas sobre los archivos modificados y confirmaciones en el repositorio
+```bash
 git log --stat
-
-# Mostrar la diferencia entre dos ramas
+```
+### Mostrar la diferencia entre dos ramas
+```bash
 git diff <branch_name1>..<branch_name2>
-
+```
 # Eliminar una rama en git
+```bash
 git branch -d <nombre_de_la_rama>
+```
 
-# Si necesitas eliminar la rama de todas formas, incluso si no está completamente fusionada,
-# puedes usar -D:
-# La opción -D es más agresiva y forzará la eliminación, incluso si hay trabajo sin fusionar.
+### Si necesitas eliminar la rama de todas formas, incluso si no está completamente fusionada,
+### puedes usar -D:
+### La opción -D es más agresiva y forzará la eliminación, incluso si hay trabajo sin fusionar.
+```bash
 git branch -D <nombre_de_la_rama>
-
-# Aplicar un parche desde un archivo o una URL
+```
+### Aplicar un parche desde un archivo o una URL
+```bash
 git apply <patch_file>
-
-# Mostrar un resumen de las confirmaciones realizadas por cada colaborador
+```
+### Mostrar un resumen de las confirmaciones realizadas por cada colaborador
+```bash
 git shortlog
-
-# Esto agregará un nuevo control remoto con el nombre especificado en lugar de "origin".</span>
+```
+### Esto agregará un nuevo control remoto con el nombre especificado en lugar de "origin".</span>
+```bash
 git remote add nombre_deseado URL_del_repositorio_remoto
-
-# Actualizar la URL del control remoto existente llamado "origin" con la nueva URL especificada.
+```
+### Actualizar la URL del control remoto existente llamado "origin" con la nueva URL especificada.
+```bash
 git remote set-url origin nueva_URL
-
-# Este comando realiza dos acciones en una sola línea:
-# -a: Agrega todos los archivos modificados y eliminados al área de preparación (staging area).
-# -m "Mensaje del commit": Agrega un mensaje al commit para describir los cambios realizados.
+```
+### Este comando realiza dos acciones en una sola línea:
+### -a: Agrega todos los archivos modificados y eliminados al área de preparación (staging area).
+### -m "Mensaje del commit": Agrega un mensaje al commit para describir los cambios realizados.
+```bash
 git commit -am "Mensaje del commit"
-
-# Este comando permite agregar o arreglar el mensaje de un commit
+```
+### Este comando permite agregar o arreglar el mensaje de un commit
+```bash
 git commit -amend -m "Mensaje del commit"
-
-# Este comando permite deshacer tu último commit
-# y el parámetro --soft mantiene los cambios en local
+```
+### Este comando permite deshacer tu último commit
+### y el parámetro --soft mantiene los cambios en local
+```bash
 git reset --soft HEAD~1
-
-# Este comando permite deshacer tu último commit
-# y el parámetro --hard para borrarlos del todo
+```
+### Este comando permite deshacer tu último commit
+### y el parámetro --hard para borrarlos del todo
+```bash
 git reset --hard HEAD~1
-
-# Si has hecho un push al repositorio tiene arreglo
-# hacemos un git log --oneline para buscar el id del commit
+```
+### Si has hecho un push al repositorio tiene arreglo
+### hacemos un git log --oneline para buscar el id del commit
+```bash
 git revert "identificador del commit" ej: b3be3e0369
-
-# Este comando eliminará los archivos no rastreados
-# que están pendientes de commit
+```
+### Este comando eliminará los archivos no rastreados
+### que están pendientes de commit
+```bash
 git clean -f
-
-# Este comando eliminará los directorios y archivos no rastreados
-# que están pendientes de commit
+```
+### Este comando eliminará los directorios y archivos no rastreados
+### que están pendientes de commit
+```bash
 git clean -fd
-
+```
 
 ---
 
