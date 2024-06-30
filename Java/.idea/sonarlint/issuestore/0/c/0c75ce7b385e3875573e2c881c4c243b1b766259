@@ -1,11 +1,11 @@
 
-ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û∫¨Ò8¿°…µÉ2J$88f9a0cd-7670-4201-87a5-42651dc6b89e
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û∫¨Ò8¿°…µÉ2J$13867ae9-fa18-490b-a6c9-b08c03ca5e86
 ï
-java:S11926"RDefine a constant instead of duplicating this literal "El resultado es: " 3 times.(›Óè∫8Ä¢…µÉ2J$77465d03-fc12-424d-a441-78d0d63084be
-m	java:S106/"+Replace this use of System.out by a logger.(ÑÍΩ€8ê¢…µÉ2J$038d36a9-87fa-4922-8395-07aeed2bf88a
-É	java:S125"<This block of commented-out lines of code should be removed.(õãôì˘ˇˇˇˇ8ê¢…µÉ2J$39219d04-caf3-4824-90b3-a00e0c8abd14
-~	java:S125"<This block of commented-out lines of code should be removed.(”•≤∏8ê¢…µÉ2J$25849c87-b701-4e5e-90c8-5e89ddcd0bac
-r	java:S1061"+Replace this use of System.out by a logger.(¶≥ﬁÕ˛ˇˇˇˇ8ê¢…µÉ2J$dd57b48d-1559-4b5a-b197-1b8b0fdbb084
-m	java:S1066"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$146dd8c7-7a13-4899-909b-9ecc14573974
-m	java:S1069"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$8fff55fd-348c-4f02-b728-148baf3b006e
-m	java:S106<"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$3d89cf90-bf02-41ec-9427-bc94191dafab
+java:S11926"RDefine a constant instead of duplicating this literal "El resultado es: " 3 times.(›Óè∫8Ä¢…µÉ2J$be74e218-4dbd-4439-ae4b-e33d99927c83
+m	java:S106/"+Replace this use of System.out by a logger.(ÑÍΩ€8ê¢…µÉ2J$e2fd4290-61f3-4f42-bccf-8c3a830593ac
+É	java:S125"<This block of commented-out lines of code should be removed.(õãôì˘ˇˇˇˇ8ê¢…µÉ2J$6bf78591-0905-4de5-ac65-45b515b69cca
+~	java:S125"<This block of commented-out lines of code should be removed.(”•≤∏8ê¢…µÉ2J$e986c406-ff6a-4a33-b601-9a313be29fe3
+r	java:S1061"+Replace this use of System.out by a logger.(¶≥ﬁÕ˛ˇˇˇˇ8ê¢…µÉ2J$0f4ff11e-a22a-47aa-b012-842df4752f87
+m	java:S1066"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$829b0946-827f-4e59-b309-9796890fea41
+m	java:S1069"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$369312ee-fb6a-4067-887f-f7f313ed18d0
+m	java:S106<"+Replace this use of System.out by a logger.(›Óè∫8ê¢…µÉ2J$69d21253-5652-4656-8fe2-a9e600405ae6

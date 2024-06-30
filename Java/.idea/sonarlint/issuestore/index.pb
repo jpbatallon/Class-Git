@@ -7,3 +7,17 @@ K
 Ejercicio_1/Ejercicio2.java,e\f\ef02e6882314100e7854f5f3a6c2231a665e7803
 H
 Ejercicio_1/Clase11.java,0\c\0c75ce7b385e3875573e2c881c4c243b1b766259
+F
+Leccion2/Leccion2.java,3\5\358b65a4afb55357fd11c7db477a37767509e47c
+U
+%CondicionalEjercicio1/Ejercicio1.java,b\f\bf74c617bffac9273369d7e25d67a8ef5d344bec
+W
+'CondicionalesEjercicios/Ejercicio2.java,8\0\8001f16fc2dd58272e75b6ae460870b9a8485c33
+W
+'CondicionalesEjercicios/Ejercicio3.java,8\e\8e9e7797682c794115992b59cf013f9d30eb919b
+W
+'CondicionalesEjercicios/Ejercicio4.java,2\3\2347fa5414f2485ad9df1cec975597d0eaa093e3
+W
+'CondicionalesEjercicios/Ejercicio5.java,f\c\fc805527f32e04978b8bd7598973a85406ed3bd5
+W
+'CondicionalesEjercicios/Ejercicio6.java,7\f\7fb5d5642bd8ceb6b1126e78a97a8dc41c9708b2
