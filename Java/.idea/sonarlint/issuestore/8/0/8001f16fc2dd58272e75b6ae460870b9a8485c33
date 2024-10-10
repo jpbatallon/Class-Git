@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬İäÿÿÿÿÿ8íá‹Î†2J$7413986a-7ddc-4703-acb3-79bf45808555
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ÎøüÿÿÿÿJ$b69a1cd3-0932-4aa4-8897-1fdac2ecab37
+‹
+java:S6208"CMerge the previous cases into this one using comma-separated label.(úâúÿÿÿÿ8úá‹Î†2J$53cf0944-3577-48c9-b3fa-36a80af248d5
+‹
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ÌÊëÎüÿÿÿÿ8ûá‹Î†2J$5e76174f-91b3-4e14-960e-a9f81c42c14b
+‹
+java:S6208"CMerge the previous cases into this one using comma-separated label.(˜Çúÿÿÿÿ8ûá‹Î†2J$93c353f6-26f8-4f23-a5c0-51c703cbef5c
+‹
+java:S6208"CMerge the previous cases into this one using comma-separated label.(—Í×©øÿÿÿÿ8ûá‹Î†2J$7e6abce4-9e17-4f0d-aa69-bab494413317
+m	java:S106
+"+Replace this use of System.out by a logger.(Œñ¤£8‰â‹Î†2J$1ce08ef4-266c-467e-85d5-5d394839e0cd
+m	java:S106%"+Replace this use of System.out by a logger.(Šæà 8’â‹Î†2J$97234669-da5f-4fed-ad99-f7278eec4d9e
