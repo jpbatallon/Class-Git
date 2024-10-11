@@ -61,3 +61,33 @@ print(nombres)
 # Eliminar lista
 del nombres
 # print(nombres) # Acá nos muestra un error.
+
+# Definimos una tupla
+cocina = ("Cuchara", "Chuchillo", "Tenedor")
+print(cocina)
+print(len(cocina)) # Para saber el largo o la cantidad de elementos que contiene una tupla
+
+# Acceder a un elemento, para esto utilizamos corchetes, no paréntesis
+print(cocina[0])
+# De manera inversa
+print(cocina[-1])
+
+# Acceder a un rango
+print(cocina[0:2])
+
+# Ejemplo
+verduras = ("Papa",) # La tupla, aunque sea de un elemento, necesita la coma. De lo contrario, sería un tipo str cadena.
+
+# Recorremos los elementos de la tupla
+for cocinar in cocina:
+  print(cocinar, end = " ") # Print está usando \n para saltos de línea. Para que sea contínuo y eliminar estos saltos, debemos utilizar "end ="
+
+# Para modificar una tupla (no es una buena práctica):
+cocinaLista = list(cocina)
+cocinaLista[0] = "Plato"
+cocina = tuple(cocinaLista)
+print("\n", cocina)
+
+# Para eliminar una tupla
+# del cocina
+# print(cocina) # Acá nos muestra un error
