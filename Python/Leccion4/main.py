@@ -354,3 +354,7 @@ for i in range(len(cola)):
     seRetira = cola.pop(0)  # Retiramos siempre el primer elemento
     print(f"Se retira: {seRetira}")
     print("Estado de la cola:", cola)
+
+# Cómo recorrer un diccionario con el ciclo for
+for i in seleccionArgentina:
+  print(f"{i} -> {seleccionArgentina[i]}")
