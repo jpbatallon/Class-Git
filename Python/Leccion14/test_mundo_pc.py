@@ -1,10 +1,8 @@
-
-
-from Leccion14.mundo_pc.computadora import Computadora
-from Leccion14.mundo_pc.monitor import Monitor
-from Leccion14.mundo_pc.orden import Orden
-from Leccion14.mundo_pc.raton import Raton
-from Leccion14.mundo_pc.teclado import Teclado
+from computadora import Computadora
+from monitor import Monitor
+from orden import Orden
+from raton import Raton
+from teclado import Teclado
 
 
 teclado1 = Teclado("Logitech", "USB")

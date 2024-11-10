@@ -1,6 +1,6 @@
-from Leccion14.mundo_pc.monitor import Monitor
-from Leccion14.mundo_pc.raton import Raton
-from Leccion14.mundo_pc.teclado import Teclado
+from monitor import Monitor
+from raton import Raton
+from teclado import Teclado
 
 
 class Computadora:

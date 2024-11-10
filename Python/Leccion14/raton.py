@@ -1,4 +1,4 @@
-from Leccion14.mundo_pc.dispositivo_entrada import DispositivoEntrada
+from dispositivo_entrada import DispositivoEntrada
 
 
 class Raton(DispositivoEntrada):
